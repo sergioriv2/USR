@@ -1,0 +1,47 @@
+{
+    "inicio": {
+        "path": "/dashboard",
+        "name": "Inicio",
+        "icon": "fa-solid fa-house"
+    },
+    "cursos": {
+        "path": "./courses",
+        "name": "Cursos",
+        "icon": "fa-solid fa-book-open-reader"
+    },
+    "notas": {
+        "path": "./grades",
+        "name": "Notas",
+        "icon": "fa-solid fa-laptop-file"
+    },
+    "pagos": {
+        "path": "./payments",
+        "name": "Pagos",
+        "icon": "fa-solid fa-file-invoice-dollar"
+    },
+    "ajustes": {
+        "path": "./settings",
+        "name": "Ajustes",
+        "icon": "fa-solid fa-gear"
+    },
+    "carreras": {
+        "path": "./careers",
+        "name": "Carreras",
+        "icon": "fa-solid fa-diagram-project"
+    },
+    "usuarios": {
+        "path": "./users",
+        "name": "Usuarios",
+        "icon": "fa-solid fa-users"
+    },
+    "estadisticas": {
+        "path": "./stats",
+        "name": "Estadisticas",
+        "icon": "fa-solid fa-chart-line"
+    },
+    "signOut": {
+        "path": "/",
+        "name": "Cerrar Sesión",
+        "icon": "fa-solid fa-right-from-bracket"
+    }
+}

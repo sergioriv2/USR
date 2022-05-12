@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500&family=Open+Sans:wght@300;400;500;700&family=Raleway:wght@200;400&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h2{
+  font-size: 25px;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,p {
+  margin: 0;
+
+}
+
+p {
+  line-height: 1.5em;
+}
+
+:root{
+  --background-1: #eee;
+  --background-2: #fefefe;
+  --primary: #4062cc;
+  --secondary:#d63954;
+  --transition-3: all .3s;
+  --transition-5: all .5s;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
